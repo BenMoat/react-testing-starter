@@ -1,0 +1,7 @@
+Run local: npm start
+
+Run testing library: 
+In the terminal: npm t
+Run in the vitest UI: npm run test:ui
+
+Tutorial timestamp: 
